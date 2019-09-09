@@ -12,7 +12,7 @@ OUTPUT_C="$OUTPUT""_Choices"
 OUTPUT_A="$OUTPUT""_Answers"
 
 COUNT=$((COUNT = 0))
-DIR="ASTR-101"
+DIR="CoureSpace"
 
 if [ ! -d $DIR ]; then
 	mkdir $DIR
