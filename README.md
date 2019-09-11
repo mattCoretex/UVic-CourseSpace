@@ -1,7 +1,7 @@
-# UVic-CourseSpace
-Extract questions and answers from SUBMITTED and RETURNED quizzes on UVic Course Space as a preparation before an exam.
+# UVic-CourseSpace-Quiz-Scraper
+Scrape questions and answers from html page of quizzes that are SUBMITTED and RETURNED on UVic Course Spaces for exam preparation.
 
-Manual:
+Instructions:
 1. Download the html page containing quizzes and answers.
 2. Put the page into the same folder as the script.
 3. Run the script.
@@ -10,4 +10,4 @@ Manual:
 
 To do:
 - improve the presentation of the generated text files.
-- implement a way to automatically download the html page instead of manually.
+- implement an automatic spider for scraping and crawling using in Python.
