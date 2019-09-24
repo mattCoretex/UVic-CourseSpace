@@ -10,4 +10,4 @@ Instructions:
 
 To do:
 - improve the presentation of the generated text files.
-- implement an automatic spider for scraping and crawling using in Python.
+- implement an automatic spider for scraping if possible.
