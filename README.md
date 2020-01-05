@@ -8,6 +8,6 @@ Instructions:
 4. A folder containing questions and answers text files will be generated.
 
 
-To do:
+To do (if possible):
 - improve the presentation of the generated text files.
-- implement an automatic spider for scraping if possible.
+- crawl and scrape automatically.
